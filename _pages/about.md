@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
+
 I am currently a first year PhD student of Applied Mathematics at York University under supervision of [Professor Hyejin Ku](https://hku.info.yorku.ca/). Previously, I was a quantitative researcher at [Risklab Middle East](https://risklab.me/), where I had the great pleasure of working with [Professor Hamidreza Arian](https://arian.ai/). I also have a BSc in Computer Science and an MBA in Finance, both from Sharif University of Technology.
 
 ---
