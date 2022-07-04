@@ -24,6 +24,6 @@ I am generally interested in applications of machine learning in Finance. My mai
 ## News
 * **September 2021:** Joined York University, Mathematics and Statistics department.
 * **November 2020:** Preprint on "Encoded Value-at-Risk: A Predictive Machine for Financial Risk Management"
-* **January 2020:** Public talk on "Building Diversified Portfolios that Outperform Out-of-Sample" ([Link (Presenation in Farsi)](https://www.aparat.com/v/nkjlB))
+* **January 2020:** Public talk on "Building Diversified Portfolios that Outperform Out-of-Sample" ([Link to Presenation in Farsi](https://www.aparat.com/v/nkjlB))
 * **September 2018:** Received my bachelor's degree in Computer Science, Ranked 1st in the class of 2018
 
