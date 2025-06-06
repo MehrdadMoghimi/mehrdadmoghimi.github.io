@@ -20,7 +20,7 @@ I am generally interested in Reinforcment Learning and its applications. My main
 
 ## Publications:
 * Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning (ICML 2025,  [arXiv link](https://arxiv.org/abs/2501.02087))
-* Encoded Value-at-Risk: A Predictive Machine for Financial Risk Management (Mathematics and Computers in Simulation 2022, [rXiv link](https://arxiv.org/abs/2011.06742))
+* Encoded Value-at-Risk: A Predictive Machine for Financial Risk Management (Mathematics and Computers in Simulation 2022, [arXiv link](https://arxiv.org/abs/2011.06742))
 
 ---
 
