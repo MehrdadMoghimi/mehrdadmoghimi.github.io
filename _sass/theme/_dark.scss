@@ -51,4 +51,13 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$gray};
     --global-thead-color                : #{$background-lighter};
+
+    /* Override GitHub icon color in dark mode */
+    .social-icons {
+        .fa-github,
+        .fa-github-alt,
+        .fa-github-square {
+            color: #{$text} !important;
+        }
+    }
 }
