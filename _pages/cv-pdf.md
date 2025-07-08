@@ -70,25 +70,27 @@ title: " "
 }
 
 .btn--primary {
-  background-color: var(--global-link-color, #007bff);
+  background-color: #5bc0de;
   color: white;
+  border: 2px solid #5bc0de;
 }
 
 .btn--primary:hover {
-  background-color: var(--global-link-color-hover, #0056b3);
+  background-color: #31b0d5;
   color: white;
+  border-color: #31b0d5;
 }
 
 .btn--secondary {
-  background-color: #f8f9fa;
-  color: #495057;
-  border: 2px solid #495057;
+  background-color: #5bc0de;
+  color: white;
+  border: 2px solid #5bc0de;
 }
 
 .btn--secondary:hover {
-  background-color: #495057;
+  background-color: #31b0d5;
   color: white;
-  border-color: #495057;
+  border-color: #31b0d5;
 }
 
 /* Dark mode specific styling for secondary button */
