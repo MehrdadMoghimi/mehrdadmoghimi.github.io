@@ -93,16 +93,29 @@ title: " "
   border-color: #31b0d5;
 }
 
-/* Dark mode specific styling for secondary button */
+/* Dark mode specific styling for buttons */
+html[data-theme="dark"] .btn--primary {
+  background-color: #5bc0de;
+  color: white;
+  border-color: #5bc0de;
+}
+
+html[data-theme="dark"] .btn--primary:hover {
+  background-color: #31b0d5;
+  color: white;
+  border-color: #31b0d5;
+}
+
 html[data-theme="dark"] .btn--secondary {
-  background-color: var(--global-bg-color);
-  color: var(--global-text-color);
-  border-color: var(--global-text-color);
+  background-color: #5bc0de;
+  color: white;
+  border-color: #5bc0de;
 }
 
 html[data-theme="dark"] .btn--secondary:hover {
-  background-color: var(--global-text-color);
-  color: var(--global-bg-color);
+  background-color: #31b0d5;
+  color: white;
+  border-color: #31b0d5;
 }
 
 .pdf-viewer {
