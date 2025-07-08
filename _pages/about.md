@@ -26,6 +26,7 @@ I am generally interested in Reinforcment Learning and its applications. My main
 ---
 
 ## News
+* **July 2025:** Preprint on "Risk-sensitive Actor-Critic with Static Spectral Risk Measures for Online and Offline Reinforcement Learning"
 * **May 2025:** Our paper "Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning" was accepted at ICML 2025
 * **January 2025:** Preprint on "Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning"
 * **December 2022:** Our paper "Encoded Value-at-Risk: A Predictive Machine for Financial Risk Management" was published in the Mathematics and Computers in Simulation Journal 

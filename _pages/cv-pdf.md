@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "CV"
+title: ""
 permalink: /cv-pdf/
 author_profile: false
 ---
@@ -78,12 +78,12 @@ author_profile: false
 
 .btn--secondary {
   background-color: transparent;
-  color: var(--global-text-color, #6c757d);
-  border: 1px solid var(--global-border-color, #6c757d);
+  color: var(--global-text-color, #495057);
+  border: 1px solid var(--global-text-color, #495057);
 }
 
 .btn--secondary:hover {
-  background-color: var(--global-border-color, #6c757d);
+  background-color: var(--global-text-color, #495057);
   color: white;
 }
 
