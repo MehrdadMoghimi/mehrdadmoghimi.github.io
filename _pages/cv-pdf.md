@@ -1,8 +1,11 @@
 ---
 layout: single
-title: ""
 permalink: /cv-pdf/
 author_profile: false
+header:
+  overlay_filter: "0.5"
+  show_overlay_excerpt: false
+title: " "
 ---
 
 <div class="cv-container">
@@ -77,14 +80,27 @@ author_profile: false
 }
 
 .btn--secondary {
-  background-color: transparent;
-  color: var(--global-text-color, #495057);
-  border: 1px solid var(--global-text-color, #495057);
+  background-color: #f8f9fa;
+  color: #495057;
+  border: 2px solid #495057;
 }
 
 .btn--secondary:hover {
-  background-color: var(--global-text-color, #495057);
+  background-color: #495057;
   color: white;
+  border-color: #495057;
+}
+
+/* Dark mode specific styling for secondary button */
+html[data-theme="dark"] .btn--secondary {
+  background-color: var(--global-bg-color);
+  color: var(--global-text-color);
+  border-color: var(--global-text-color);
+}
+
+html[data-theme="dark"] .btn--secondary:hover {
+  background-color: var(--global-text-color);
+  color: var(--global-bg-color);
 }
 
 .pdf-viewer {
