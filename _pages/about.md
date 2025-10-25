@@ -16,7 +16,6 @@ I am generally interested in Reinforcment Learning and its applications. My main
 * Risk-sensitive RL
 * Distributional RL
 * Application of RL in Finance
-* Applications of RL for reasoning in LLMs
 
 ## Publications:
 * Risk-sensitive Actor-Critic with Static Spectral Risk Measures for Online and Offline Reinforcement Learning (Under review, [arXiv link](https://arxiv.org/abs/2507.03900))
