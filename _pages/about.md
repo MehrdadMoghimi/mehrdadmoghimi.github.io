@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a forth year PhD student of Applied Mathematics at York University under supervision of [Professor Hyejin Ku](https://hku.info.yorku.ca/). Previously, I was a quantitative researcher at [Risklab AI](https://risklab.ai/), where I had the great pleasure of working with [Professor Hamidreza Arian](https://arian.ai/). I also have a BSc in Computer Science and an MBA in Finance, both from Sharif University of Technology. You can find my CV [here](../cv-pdf/){:target="_blank"}. 
+I am currently a fifth year PhD student of Applied Mathematics at York University under supervision of [Professor Hyejin Ku](https://hku.info.yorku.ca/). Previously, I was a quantitative researcher at [Risklab AI](https://risklab.ai/), where I had the great pleasure of working with [Professor Hamidreza Arian](https://arian.ai/). I also have a BSc in Computer Science and an MBA in Finance, both from Sharif University of Technology. You can find my CV [here](../cv-pdf/){:target="_blank"}. 
 
 ---
 
@@ -18,6 +18,7 @@ I am generally interested in Reinforcment Learning and its applications. My main
 * Application of RL in Finance
 
 ## Publications:
+* Decoupling Time and Risk: Risk-Sensitive Reinforcement Learning with General Discounting (Under review, [arXiv link](https://arxiv.org/abs/2602.04131))
 * Risk-sensitive Actor-Critic with Static Spectral Risk Measures for Online and Offline Reinforcement Learning (Under review, [arXiv link](https://arxiv.org/abs/2507.03900))
 * Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning (**ICML 2025**,  [arXiv link](https://arxiv.org/abs/2501.02087))
 * Encoded Value-at-Risk: A Predictive Machine for Financial Risk Management (Mathematics and Computers in Simulation 2022, [arXiv link](https://arxiv.org/abs/2011.06742))
@@ -25,6 +26,7 @@ I am generally interested in Reinforcment Learning and its applications. My main
 ---
 
 ## News
+* **February 2026:** Preprint on "Decoupling Time and Risk: Risk-Sensitive Reinforcement Learning with General Discounting"
 * **July 2025:** Preprint on "Risk-sensitive Actor-Critic with Static Spectral Risk Measures for Online and Offline Reinforcement Learning"
 * **May 2025:** Our paper "Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning" was accepted at ICML 2025
 * **January 2025:** Preprint on "Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning"
