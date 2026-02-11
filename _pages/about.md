@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fifth year PhD student of Applied Mathematics at York University under supervision of [Professor Hyejin Ku](https://hku.info.yorku.ca/). Previously, I was a quantitative researcher at [Risklab AI](https://risklab.ai/), where I had the great pleasure of working with [Professor Hamidreza Arian](https://arian.ai/). I also have a BSc in Computer Science and an MBA in Finance, both from Sharif University of Technology. You can find my CV [here](../cv-pdf/){:target="_blank"}. 
+I am a fifth year PhD student in Applied Mathematics at York University, where I am fortunate to be supervised by Professor [Hyejin Ku](https://hku.info.yorku.ca/). My research focuses on risk-sensitive and distributional reinforcement learning.
+Previously, I worked as a quantitative researcher at [Risklab AI](https://risklab.ai/), where I had the pleasure of collaborating with Professor [Hamidreza Arian](https://arian.ai/). I hold a BSc in Computer Science and an MBA in Finance from Sharif University of Technology. You can find my CV [here](../cv-pdf/){:target="_blank"}. 
 
 ---
 
