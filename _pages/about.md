@@ -19,10 +19,10 @@ I am generally interested in Reinforcment Learning and its applications. My main
 * Application of RL in Finance
 
 ## Publications:
-* Decoupling Time and Risk: Risk-Sensitive Reinforcement Learning with General Discounting (Under review, [arXiv link](https://arxiv.org/abs/2602.04131))
-* Risk-sensitive Actor-Critic with Static Spectral Risk Measures for Online and Offline Reinforcement Learning (Under review, [arXiv link](https://arxiv.org/abs/2507.03900))
-* Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning (**ICML 2025**,  [arXiv link](https://arxiv.org/abs/2501.02087))
-* Encoded Value-at-Risk: A Predictive Machine for Financial Risk Management (Mathematics and Computers in Simulation 2022, [arXiv link](https://arxiv.org/abs/2011.06742))
+* Decoupling Time and Risk: Risk-Sensitive Reinforcement Learning with General Discounting (Under review, [arXiv](https://arxiv.org/abs/2602.04131))
+* Risk-sensitive Actor-Critic with Static Spectral Risk Measures for Online and Offline Reinforcement Learning (Under review, [arXiv](https://arxiv.org/abs/2507.03900))
+* Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning (**ICML 2025**,  [PMLR](https://proceedings.mlr.press/v267/moghimi25a.html))
+* Encoded Value-at-Risk: A Predictive Machine for Financial Risk Management (Mathematics and Computers in Simulation 2022, [Journal](https://doi.org/10.1016/j.matcom.2022.07.015), [arXiv](https://arxiv.org/abs/2011.06742))
 
 ---
 
