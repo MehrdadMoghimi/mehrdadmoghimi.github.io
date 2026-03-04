@@ -20,18 +20,19 @@ I am generally interested in Reinforcment Learning and its applications. My main
 
 ## Publications:
 * Decoupling Time and Risk: Risk-Sensitive Reinforcement Learning with General Discounting (Under review, [arXiv](https://arxiv.org/abs/2602.04131))
-* Risk-sensitive Actor-Critic with Static Spectral Risk Measures for Online and Offline Reinforcement Learning (Under review, [arXiv](https://arxiv.org/abs/2507.03900))
-* Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning (**ICML 2025**,  [PMLR](https://proceedings.mlr.press/v267/moghimi25a.html))
+* Risk-sensitive Actor-Critic with Static Spectral Risk Measures for Online and Offline Reinforcement Learning (Expert Systems with Applications, [Journal](https://doi.org/10.1016/j.eswa.2026.131838), [arXiv](https://arxiv.org/abs/2507.03900))
+* Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning (**ICML 2025**,  [PMLR](https://proceedings.mlr.press/v267/moghimi25a.html), [arXiv](https://arxiv.org/abs/2501.02087))
 * Encoded Value-at-Risk: A Predictive Machine for Financial Risk Management (Mathematics and Computers in Simulation 2022, [Journal](https://doi.org/10.1016/j.matcom.2022.07.015), [arXiv](https://arxiv.org/abs/2011.06742))
 
 ---
 
 ## News
+* **March 2026:** Our paper "Risk-sensitive Actor-Critic with Static Spectral Risk Measures for Online and Offline Reinforcement Learning" was published in the Expert Systems with Applications journal
 * **February 2026:** Preprint on "Decoupling Time and Risk: Risk-Sensitive Reinforcement Learning with General Discounting"
 * **July 2025:** Preprint on "Risk-sensitive Actor-Critic with Static Spectral Risk Measures for Online and Offline Reinforcement Learning"
 * **May 2025:** Our paper "Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning" was accepted at ICML 2025
 * **January 2025:** Preprint on "Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning"
-* **December 2022:** Our paper "Encoded Value-at-Risk: A Predictive Machine for Financial Risk Management" was published in the Mathematics and Computers in Simulation Journal 
+* **December 2022:** Our paper "Encoded Value-at-Risk: A Predictive Machine for Financial Risk Management" was published in the Mathematics and Computers in Simulation journal 
 * **September 2021:** Joined York University, Mathematics and Statistics department.
 * **November 2020:** Preprint on "Encoded Value-at-Risk: A Predictive Machine for Financial Risk Management"
 * **January 2020:** Public talk on "Building Diversified Portfolios that Outperform Out-of-Sample" ([Link to Presenation in Farsi](https://www.aparat.com/v/nkjlB))
