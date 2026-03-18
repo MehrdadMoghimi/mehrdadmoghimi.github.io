@@ -14,9 +14,9 @@ Previously, I worked as a quantitative researcher at [Risklab AI](https://riskla
 ---
 
 I am generally interested in Reinforcment Learning and its applications. My main areas of research include:
-* Risk-sensitive RL
+* Risk-sensitive and Safe RL
 * Distributional RL
-* Application of RL in Finance
+* RL for LLM Reasoning
 
 ## Publications:
 * Decoupling Time and Risk: Risk-Sensitive Reinforcement Learning with General Discounting (Under review, [arXiv](https://arxiv.org/abs/2602.04131))
