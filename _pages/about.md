@@ -15,10 +15,10 @@ Previously, I worked as a quantitative researcher at [Risklab AI](https://riskla
 
 I am generally interested in Reinforcment Learning and its applications. My main areas of research include:
 * Risk-sensitive and Safe RL
-* Distributional RL
 * RL for LLM Reasoning
 
 ## Publications:
+* Utility-Constrained Policy Optimization (Under review)
 * Decoupling Time and Risk: Risk-Sensitive Reinforcement Learning with General Discounting (Under review, [arXiv](https://arxiv.org/abs/2602.04131))
 * Risk-sensitive Actor-Critic with Static Spectral Risk Measures for Online and Offline Reinforcement Learning (Expert Systems with Applications, [Journal](https://doi.org/10.1016/j.eswa.2026.131838), [arXiv](https://arxiv.org/abs/2507.03900))
 * Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning (**ICML 2025**,  [PMLR](https://proceedings.mlr.press/v267/moghimi25a.html), [arXiv](https://arxiv.org/abs/2501.02087))
@@ -27,6 +27,8 @@ I am generally interested in Reinforcment Learning and its applications. My main
 ---
 
 ## News
+* **May 2026:** I joined RBC Borealis as a research intern to work on Knowledge distillation
+* **May 2026:** Preprint on "Utility-Constrained Policy Optimization"
 * **March 2026:** Our paper "Risk-sensitive Actor-Critic with Static Spectral Risk Measures for Online and Offline Reinforcement Learning" was published in the Expert Systems with Applications journal
 * **February 2026:** Preprint on "Decoupling Time and Risk: Risk-Sensitive Reinforcement Learning with General Discounting"
 * **July 2025:** Preprint on "Risk-sensitive Actor-Critic with Static Spectral Risk Measures for Online and Offline Reinforcement Learning"
