@@ -13,15 +13,15 @@ Previously, I worked as a quantitative researcher at [Risklab AI](https://riskla
 
 ---
 
-I am generally interested in Reinforcment Learning and its applications. My main areas of research include:
+I am generally interested in Reinforcement Learning and LLM Post-training. My main areas of research include:
 * Risk-sensitive and Safe RL
-* RL for LLM Reasoning
+* Knowledge distillation
 
 ## Publications:
-* Utility-Constrained Policy Optimization (Under review)
-* Decoupling Time and Risk: Risk-Sensitive Reinforcement Learning with General Discounting (Under review, [arXiv](https://arxiv.org/abs/2602.04131))
-* Risk-sensitive Actor-Critic with Static Spectral Risk Measures for Online and Offline Reinforcement Learning (Expert Systems with Applications, [Journal](https://doi.org/10.1016/j.eswa.2026.131838), [arXiv](https://arxiv.org/abs/2507.03900))
-* Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning (**ICML 2025**,  [PMLR](https://proceedings.mlr.press/v267/moghimi25a.html), [arXiv](https://arxiv.org/abs/2501.02087))
+* Utility-Constrained Policy Optimization (Under review, [arXiv](https://arxiv.org/abs/2606.14029), [code](https://github.com/MehrdadMoghimi/UCP))
+* Decoupling Time and Risk: Risk-Sensitive Reinforcement Learning with General Discounting (Under review, [arXiv](https://arxiv.org/abs/2602.04131), [code](https://github.com/MehrdadMoghimi/RIGOR))
+* Risk-sensitive Actor-Critic with Static Spectral Risk Measures for Online and Offline Reinforcement Learning (Expert Systems with Applications, [Journal](https://doi.org/10.1016/j.eswa.2026.131838), [arXiv](https://arxiv.org/abs/2507.03900), [code](https://github.com/MehrdadMoghimi/ACSRM))
+* Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning (**ICML 2025**,  [PMLR](https://proceedings.mlr.press/v267/moghimi25a.html), [arXiv](https://arxiv.org/abs/2501.02087), [code](https://github.com/MehrdadMoghimi/QRSRM))
 * Encoded Value-at-Risk: A Predictive Machine for Financial Risk Management (Mathematics and Computers in Simulation 2022, [Journal](https://doi.org/10.1016/j.matcom.2022.07.015), [arXiv](https://arxiv.org/abs/2011.06742))
 
 ---
